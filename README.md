@@ -15,7 +15,7 @@
 <hr>
 
 > [!NOTE]
-> Checkout [python branch](https://github.com/EverythingSuckz/TG-FileStreamBot/tree/python) if you are interested in that.
+> Checkout [python branch](https://github.com/soprano326/TG-FileStreamBot/tree/python) if you are interested in that.
 
 <hr>
 
@@ -66,7 +66,7 @@
 ### Deploy to Heroku
 
 > [!NOTE]
-> You'll have to [fork](https://github.com/EverythingSuckz/TG-FileStreamBot/fork) this repository to deploy to Heroku.
+> You'll have to [fork](https://github.com/soprano326/TG-FileStreamBot/fork) this repository to deploy to Heroku.
 
 Press the below button to fast deploy to Heroku
 
@@ -77,7 +77,7 @@ Press the below button to fast deploy to Heroku
 <hr>
 
 ### Download from releases
-- Head over to [releases](https://github.com/EverythingSuckz/TG-FileStreamBot/releases) tab, from the *pre release* section, download the one for your platform and architecture.
+- Head over to [releases](https://github.com/soprano326/TG-FileStreamBot/releases) tab, from the *pre release* section, download the one for your platform and architecture.
 - Extract the zip file to a folder.
 - Create an a file named `fsb.env` and add all the variables there (see `fsb.sample.env` file for reference).
 - Give the executable file permission to execute using the command `chmod +x fsb` (Not required for windows).
